@@ -8,6 +8,6 @@ City Route Searching Using A* and BFS.
 
 * Go to prolog Terminal
 
-* `swipl -s A2.pl`
+* `swipl -s search.pl`
 
 * `start.`
